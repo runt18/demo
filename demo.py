@@ -3,7 +3,7 @@
 
 # Outdated style string formatting
 print "This is an old-style string formatting %s" % "Test"
-
+#test comment
 # Replacement fields not explicitly numbered
 print "{} is {}".format("life", "hard")
 
