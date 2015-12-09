@@ -5,7 +5,7 @@
 print "This is an old-style string formatting %s" % "Test"
 
 # Replacement fields not explicitly numbered
-print "{} is {}".format("life", "hard")
+print "{0} is {1}".format("life", "hard")
 
 # Mutable default argument used
 def test(a, b=[]):
